@@ -1,5 +1,5 @@
 # Skeletor
-![Skeletor laughing](https://imgflip.com/meme/94237355/Skeletor)
+![Skeletor laughing](https://assets.gamepur.com/wp-content/uploads/2022/06/08155458/skeletor.jpg)
 
 **Skeletor** is the main villain in the children's TV series ***He-man***
 
