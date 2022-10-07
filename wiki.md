@@ -1,7 +1,7 @@
 # Skeletor
 ![Skeletor laughing](https://assets.gamepur.com/wp-content/uploads/2022/06/08155458/skeletor.jpg)
 
-**Skeletor** is the main villain in the children's TV series ***He-man***
+**Skeletor** is the main villain in the children's TV series [***He-man***](https://en.wikipedia.org/wiki/He-Man)
 
 
 ## Face
@@ -13,6 +13,10 @@ A really crazy guy
 He *pushed* a kid into a puddle then *laughed*
 ### Example 2
 He gave **He-man** a [Wedgie](https://www.boredpanda.com/blog/wp-content/uploads/2021/01/4-5ff14f7e795c6__880.jpg)
+## Hobbies
+* Brunch
+* Rollerskating
+* Replacing vegan burger patties with real meat patties
 
 ## Body
 Skeletor is very buff.
